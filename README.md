@@ -28,4 +28,4 @@ The data is split into training and validation sets using an 80-20 split. The mo
 The model is evaluated on the validation set, achieving a validation loss of 0.0079 and a validation accuracy of 0.9598. The model's performance on test inputs is visualized using matplotlib, showing the predicted outputs alongside the actual inputs and outputs.
 
 ### Acknowledgments
-This project was developed with the assistance of ChatGPT, which helped in writing and debugging the code. Special thanks to the TensorFlow and Keras communities for providing excellent resources and documentation.
+This project was developed with the assistance of ChatGPT, which helped in writing and debugging the code. The TensorFlow and Keras communities also provided great resources and documentation.
