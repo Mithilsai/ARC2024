@@ -89,7 +89,7 @@ An evaluation function assesses the model's performance on the evaluation datase
 
 ### 4.2 Evaluation Results
 
-Evaluation Loss: 1.882220
+Evaluation Loss: 1.78449
 
 ### 4.3 Result Analysis
 
